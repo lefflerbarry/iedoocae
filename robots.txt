@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahlootuxe.restauraceoaza.cz/sitemap.xml
